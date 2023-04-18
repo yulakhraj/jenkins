@@ -1,2 +1,2 @@
-print "hello jenkins"
-print "working of jenkins"
+print("hello jenkins")
+print("working of jenkins")
